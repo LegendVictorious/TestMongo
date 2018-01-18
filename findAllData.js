@@ -1,4 +1,4 @@
-//Finds one data entry into the database
+//Finds all data in the database
 
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
